@@ -9,8 +9,8 @@ client.once('ready', () => {
 client.on('message', message => {
 	//console.log(message.content);
 
-	if(message.content.startsWith('${prefix}addChannel')) {
-		message.channel.send("Creating Channel")
+	if (message.content.startsWith('${prefix}addChannel')) {
+		message.channel.send("Creating Channel");
 	}
 })
 
