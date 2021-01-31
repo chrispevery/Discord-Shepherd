@@ -1,0 +1,28 @@
+{
+  "name": "shepherd",
+  "version": "1.0.0",
+  "description": "Server Manager Assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "Ahoy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrispevery/Discord-Shepherd.git"
+  },
+  "keywords": [
+    "Discord",
+    "Channel",
+    "Server",
+    "Assistant"
+  ],
+  "author": "Chris Every",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrispevery/Discord-Shepherd/issues"
+  },
+  "homepage": "https://github.com/chrispevery/Discord-Shepherd#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
